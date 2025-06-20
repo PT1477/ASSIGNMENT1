@@ -5,6 +5,7 @@ This repository contains two simple Python programs:
 ## Task 1: Basic Mathematical Operations
 
  Performs the basic mathematical operations on these two number:
+- Addition
 - Subtraction
 - Multiplication
 - Division
